@@ -1,6 +1,6 @@
 
 
-font-face {
+@font-face {
     font-family: 'typestarnormal';
     src: url('./DeltaGreen_normal.woff2') format('woff2');
     font-weight: normal;
