@@ -1,13 +1,27 @@
-@font-face {
-  font-family: "TypestarNormal";
-  src: url('./Typestar-Normal.otf');
-  font-weight: normal;
-  font-style: normal;    
+
+
+font-face {
+    font-family: 'typestarnormal';
+    src: url('DeltaGreen_normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
+
 @font-face {
-  font-family: "TypestarBlack";
-  src: url('Typestar Black Regular.otf');
-  font-weight: normal;
-  font-style: normal;
+    font-family: 'typestarblack';
+    src: url('DeltaGreen_black_regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'typestarblackitalic';
+    src: url('DeltaGreen_black_italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
 }
