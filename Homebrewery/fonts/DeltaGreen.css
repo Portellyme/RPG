@@ -2,7 +2,7 @@
 
 font-face {
     font-family: 'typestarnormal';
-    src: url('DeltaGreen_normal.woff2') format('woff2');
+    src: url('./DeltaGreen_normal.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
@@ -11,7 +11,7 @@ font-face {
 
 @font-face {
     font-family: 'typestarblack';
-    src: url('DeltaGreen_black_regular.woff2') format('woff2');
+    src: url('./DeltaGreen_black_regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
@@ -20,7 +20,7 @@ font-face {
 
 @font-face {
     font-family: 'typestarblackitalic';
-    src: url('DeltaGreen_black_italic.woff2') format('woff2');
+    src: url('./DeltaGreen_black_italic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
