@@ -1,9 +1,13 @@
-
+@font-face {
+  font-family: "TypestarNormal";
+  src: url('./Typestar-Normal.otf');
+  font-weight: normal;
+  font-style: normal;    
+}
 
 @font-face {
-    font-family: 'Crom Regular';
-    src: url('./crom_v1-webfont.woff2');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: "TypestarBlack";
+  src: url('Typestar Black Regular.otf');
+  font-weight: normal;
+  font-style: normal;
 }
